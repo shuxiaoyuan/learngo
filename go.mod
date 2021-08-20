@@ -1,3 +1,3 @@
-module learngit
+module learngo
 
 go 1.16
